@@ -1,0 +1,141 @@
+Cancer id,Cancer label,Population id,Population,Sex,Type,Cases base in 2022,Year,Prediction,Change in number of cases,Change in number of cases due to population,Change in number of cases due to risk
+20,Breast,906,Eastern Asia,0,1,3935,2022,3935,0,0,0
+20,Breast,906,Eastern Asia,0,1,3935,2025,4068,133,3.3799,0
+20,Breast,906,Eastern Asia,0,1,3935,2030,3375,-560,-14.2313,0
+20,Breast,906,Eastern Asia,0,1,3935,2035,2975,-960,-24.3964,0
+20,Breast,906,Eastern Asia,0,1,3935,2040,2919,-1016,-25.8196,0
+20,Breast,906,Eastern Asia,0,1,3935,2045,3025,-910,-23.1258,0
+20,Breast,906,Eastern Asia,0,1,3935,2050,2958,-977,-24.8285,0
+20,Breast,910,Eastern Africa,0,1,5342,2022,5342,0,0,0
+20,Breast,910,Eastern Africa,0,1,5342,2025,5910,568,10.6327,0
+20,Breast,910,Eastern Africa,0,1,5342,2030,6844,1502,28.1168,0
+20,Breast,910,Eastern Africa,0,1,5342,2035,7927,2585,48.3901,0
+20,Breast,910,Eastern Africa,0,1,5342,2040,9041,3699,69.2437,0
+20,Breast,910,Eastern Africa,0,1,5342,2045,10044,4702,88.0195,0
+20,Breast,910,Eastern Africa,0,1,5342,2050,10929,5587,104.5863,0
+20,Breast,911,Middle Africa,0,1,2043,2022,2043,0,0,0
+20,Breast,911,Middle Africa,0,1,2043,2025,2301,258,12.6285,0
+20,Breast,911,Middle Africa,0,1,2043,2030,2685,642,31.4244,0
+20,Breast,911,Middle Africa,0,1,2043,2035,3155,1112,54.4298,0
+20,Breast,911,Middle Africa,0,1,2043,2040,3738,1695,82.9662,0
+20,Breast,911,Middle Africa,0,1,2043,2045,4422,2379,116.4464,0
+20,Breast,911,Middle Africa,0,1,2043,2050,5119,3076,150.5629,0
+20,Breast,912,Northern Africa,0,1,3562,2022,3562,0,0,0
+20,Breast,912,Northern Africa,0,1,3562,2025,3691,129,3.6216,0
+20,Breast,912,Northern Africa,0,1,3562,2030,3731,169,4.7445,0
+20,Breast,912,Northern Africa,0,1,3562,2035,3884,322,9.0399,0
+20,Breast,912,Northern Africa,0,1,3562,2040,4279,717,20.1291,0
+20,Breast,912,Northern Africa,0,1,3562,2045,4815,1253,35.1769,0
+20,Breast,912,Northern Africa,0,1,3562,2050,5231,1669,46.8557,0
+20,Breast,913,Southern Africa,0,1,548,2022,548,0,0,0
+20,Breast,913,Southern Africa,0,1,548,2025,579,31,5.6569,0
+20,Breast,913,Southern Africa,0,1,548,2030,545,-3,-0.5474,0
+20,Breast,913,Southern Africa,0,1,548,2035,511,-37,-6.7518,0
+20,Breast,913,Southern Africa,0,1,548,2040,532,-16,-2.9197,0
+20,Breast,913,Southern Africa,0,1,548,2045,592,44,8.0292,0
+20,Breast,913,Southern Africa,0,1,548,2050,614,66,12.0438,0
+20,Breast,914,Western Africa,0,1,5085,2022,5085,0,0,0
+20,Breast,914,Western Africa,0,1,5085,2025,5530,445,8.7512,0
+20,Breast,914,Western Africa,0,1,5085,2030,6368,1283,25.2311,0
+20,Breast,914,Western Africa,0,1,5085,2035,7425,2340,46.0177,0
+20,Breast,914,Western Africa,0,1,5085,2040,8660,3575,70.3048,0
+20,Breast,914,Western Africa,0,1,5085,2045,9886,4801,94.4149,0
+20,Breast,914,Western Africa,0,1,5085,2050,11005,5920,116.4208,0
+20,Breast,915,Caribbean,0,1,410,2022,410,0,0,0
+20,Breast,915,Caribbean,0,1,410,2025,427,17,4.1463,0
+20,Breast,915,Caribbean,0,1,410,2030,426,16,3.9024,0
+20,Breast,915,Caribbean,0,1,410,2035,418,8,1.9512,0
+20,Breast,915,Caribbean,0,1,410,2040,410,0,0,0
+20,Breast,915,Caribbean,0,1,410,2045,406,-4,-0.9756,0
+20,Breast,915,Caribbean,0,1,410,2050,403,-7,-1.7073,0
+20,Breast,916,Central America,0,1,830,2022,830,0,0,0
+20,Breast,916,Central America,0,1,830,2025,841,11,1.3253,0
+20,Breast,916,Central America,0,1,830,2030,880,50,6.0241,0
+20,Breast,916,Central America,0,1,830,2035,893,63,7.5904,0
+20,Breast,916,Central America,0,1,830,2040,891,61,7.3494,0
+20,Breast,916,Central America,0,1,830,2045,878,48,5.7831,0
+20,Breast,916,Central America,0,1,830,2050,856,26,3.1325,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2022,4693,0,0,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2025,4742,49,1.0441,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2030,4800,107,2.28,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2035,4765,72,1.5342,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2040,4778,85,1.8112,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2045,4858,165,3.5159,0
+20,Breast,920,South-Eastern Asia,0,1,4693,2050,4849,156,3.3241,0
+20,Breast,921,South Central Asia,0,1,12063,2022,12063,0,0,0
+20,Breast,921,South Central Asia,0,1,12063,2025,12607,544,4.5097,0
+20,Breast,921,South Central Asia,0,1,12063,2030,13086,1023,8.4805,0
+20,Breast,921,South Central Asia,0,1,12063,2035,13443,1380,11.4399,0
+20,Breast,921,South Central Asia,0,1,12063,2040,13689,1626,13.4792,0
+20,Breast,921,South Central Asia,0,1,12063,2045,13623,1560,12.9321,0
+20,Breast,921,South Central Asia,0,1,12063,2050,13517,1454,12.0534,0
+20,Breast,922,Western Asia,0,1,2514,2022,2514,0,0,0
+20,Breast,922,Western Asia,0,1,2514,2025,2565,51,2.0286,0
+20,Breast,922,Western Asia,0,1,2514,2030,2675,161,6.4041,0
+20,Breast,922,Western Asia,0,1,2514,2035,2778,264,10.5012,0
+20,Breast,922,Western Asia,0,1,2514,2040,2960,446,17.7407,0
+20,Breast,922,Western Asia,0,1,2514,2045,3162,648,25.7757,0
+20,Breast,922,Western Asia,0,1,2514,2050,3246,732,29.1169,0
+20,Breast,923,Eastern Europe,0,1,1419,2022,1419,0,0,0
+20,Breast,923,Eastern Europe,0,1,1419,2025,1337,-82,-5.7787,0
+20,Breast,923,Eastern Europe,0,1,1419,2030,1053,-366,-25.7928,0
+20,Breast,923,Eastern Europe,0,1,1419,2035,912,-507,-35.7294,0
+20,Breast,923,Eastern Europe,0,1,1419,2040,942,-477,-33.6152,0
+20,Breast,923,Eastern Europe,0,1,1419,2045,1022,-397,-27.9774,0
+20,Breast,923,Eastern Europe,0,1,1419,2050,1029,-390,-27.4841,0
+20,Breast,924,Northern Europe,0,1,409,2022,409,0,0,0
+20,Breast,924,Northern Europe,0,1,409,2025,406,-3,-0.7335,0
+20,Breast,924,Northern Europe,0,1,409,2030,399,-10,-2.445,0
+20,Breast,924,Northern Europe,0,1,409,2035,382,-27,-6.6015,0
+20,Breast,924,Northern Europe,0,1,409,2040,383,-26,-6.357,0
+20,Breast,924,Northern Europe,0,1,409,2045,404,-5,-1.2225,0
+20,Breast,924,Northern Europe,0,1,409,2050,397,-12,-2.934,0
+20,Breast,925,Southern Europe,0,1,503,2022,503,0,0,0
+20,Breast,925,Southern Europe,0,1,503,2025,479,-24,-4.7714,0
+20,Breast,925,Southern Europe,0,1,503,2030,453,-50,-9.9404,0
+20,Breast,925,Southern Europe,0,1,503,2035,437,-66,-13.1213,0
+20,Breast,925,Southern Europe,0,1,503,2040,432,-71,-14.1153,0
+20,Breast,925,Southern Europe,0,1,503,2045,421,-82,-16.3022,0
+20,Breast,925,Southern Europe,0,1,503,2050,386,-117,-23.2604,0
+20,Breast,926,Western Europe,0,1,805,2022,805,0,0,0
+20,Breast,926,Western Europe,0,1,805,2025,805,0,0,0
+20,Breast,926,Western Europe,0,1,805,2030,771,-34,-4.2236,0
+20,Breast,926,Western Europe,0,1,805,2035,744,-61,-7.5776,0
+20,Breast,926,Western Europe,0,1,805,2040,719,-86,-10.6832,0
+20,Breast,926,Western Europe,0,1,805,2045,716,-89,-11.0559,0
+20,Breast,926,Western Europe,0,1,805,2050,715,-90,-11.1801,0
+20,Breast,927,Australia-New Zealand,0,1,109,2022,109,0,0,0
+20,Breast,927,Australia-New Zealand,0,1,109,2025,118,9,8.2569,0
+20,Breast,927,Australia-New Zealand,0,1,109,2030,119,10,9.1743,0
+20,Breast,927,Australia-New Zealand,0,1,109,2035,113,4,3.6697,0
+20,Breast,927,Australia-New Zealand,0,1,109,2040,112,3,2.7523,0
+20,Breast,927,Australia-New Zealand,0,1,109,2045,117,8,7.3394,0
+20,Breast,927,Australia-New Zealand,0,1,109,2050,118,9,8.2569,0
+20,Breast,928,Melanesia,0,1,180,2022,180,0,0,0
+20,Breast,928,Melanesia,0,1,180,2025,218,38,21.1111,0
+20,Breast,928,Melanesia,0,1,180,2030,233,53,29.4444,0
+20,Breast,928,Melanesia,0,1,180,2035,250,70,38.8889,0
+20,Breast,928,Melanesia,0,1,180,2040,269,89,49.4444,0
+20,Breast,928,Melanesia,0,1,180,2045,289,109,60.5556,0
+20,Breast,928,Melanesia,0,1,180,2050,306,126,70,0
+20,Breast,931,South America,0,1,2853,2022,2853,0,0,0
+20,Breast,931,South America,0,1,2853,2025,2886,33,1.1567,0
+20,Breast,931,South America,0,1,2853,2030,2885,32,1.1216,0
+20,Breast,931,South America,0,1,2853,2035,2844,-9,-0.3155,0
+20,Breast,931,South America,0,1,2853,2040,2761,-92,-3.2247,0
+20,Breast,931,South America,0,1,2853,2045,2699,-154,-5.3978,0
+20,Breast,931,South America,0,1,2853,2050,2630,-223,-7.8163,0
+20,Breast,954,Micronesia,0,1,0,2022,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2025,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2030,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2035,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2040,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2045,0,0,,0
+20,Breast,954,Micronesia,0,1,0,2050,0,0,,0
+20,Breast,957,Polynesia,0,1,6,2022,6,0,0,0
+20,Breast,957,Polynesia,0,1,6,2025,7,1,16.6667,0
+20,Breast,957,Polynesia,0,1,6,2030,7,1,16.6667,0
+20,Breast,957,Polynesia,0,1,6,2035,6,0,0,0
+20,Breast,957,Polynesia,0,1,6,2040,7,1,16.6667,0
+20,Breast,957,Polynesia,0,1,6,2045,7,1,16.6667,0
+20,Breast,957,Polynesia,0,1,6,2050,8,2,33.3333,0

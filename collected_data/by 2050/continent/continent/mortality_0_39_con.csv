@@ -1,0 +1,43 @@
+Cancer id,Cancer label,Population id,Population,Sex,Type,Cases base in 2022,Year,Prediction,Risk change,Risk percentage (%)
+20,Breast,903,Africa,2,1,16580,2022,16580,0,0
+20,Breast,903,Africa,2,1,16580,2025,18010,1430,8.6248
+20,Breast,903,Africa,2,1,16580,2030,20126,3546,21.3872
+20,Breast,903,Africa,2,1,16580,2035,22808,6228,37.5633
+20,Breast,903,Africa,2,1,16580,2040,26090,9510,57.3583
+20,Breast,903,Africa,2,1,16580,2045,29522,12942,78.0579
+20,Breast,903,Africa,2,1,16580,2050,32580,16000,96.5018
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2022,4093,0,0
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2025,4149,56,1.3682
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2030,4199,106,2.5898
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2035,4173,80,1.9546
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2040,4086,-7,-0.171
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2045,4006,-87,-2.1256
+20,Breast,904,Latin America and the Caribbean,2,1,4093,2050,3906,-187,-4.5688
+20,Breast,905,Northern America,2,1,1391,2022,1391,0,0
+20,Breast,905,Northern America,2,1,1391,2025,1428,37,2.66
+20,Breast,905,Northern America,2,1,1391,2030,1452,61,4.3853
+20,Breast,905,Northern America,2,1,1391,2035,1454,63,4.5291
+20,Breast,905,Northern America,2,1,1391,2040,1484,93,6.6858
+20,Breast,905,Northern America,2,1,1391,2045,1478,87,6.2545
+20,Breast,905,Northern America,2,1,1391,2050,1419,28,2.0129
+20,Breast,908,Europe,2,1,3136,2022,3136,0,0
+20,Breast,908,Europe,2,1,3136,2025,3026,-110,-3.5077
+20,Breast,908,Europe,2,1,3136,2030,2681,-455,-14.5089
+20,Breast,908,Europe,2,1,3136,2035,2483,-653,-20.8227
+20,Breast,908,Europe,2,1,3136,2040,2484,-652,-20.7908
+20,Breast,908,Europe,2,1,3136,2045,2567,-569,-18.1441
+20,Breast,908,Europe,2,1,3136,2050,2528,-608,-19.3878
+20,Breast,909,Oceania,2,1,295,2022,295,0,0
+20,Breast,909,Oceania,2,1,295,2025,329,34,11.5254
+20,Breast,909,Oceania,2,1,295,2030,335,40,13.5593
+20,Breast,909,Oceania,2,1,295,2035,333,38,12.8814
+20,Breast,909,Oceania,2,1,295,2040,340,45,15.2542
+20,Breast,909,Oceania,2,1,295,2045,359,64,21.6949
+20,Breast,909,Oceania,2,1,295,2050,367,72,24.4068
+20,Breast,935,Asia,2,1,23205,2022,23205,0,0
+20,Breast,935,Asia,2,1,23205,2025,23999,794,3.4217
+20,Breast,935,Asia,2,1,23205,2030,23212,7,0.0302
+20,Breast,935,Asia,2,1,23205,2035,22799,-406,-1.7496
+20,Breast,935,Asia,2,1,23205,2040,22999,-206,-0.8877
+20,Breast,935,Asia,2,1,23205,2045,23286,81,0.3491
+20,Breast,935,Asia,2,1,23205,2050,23082,-123,-0.5301

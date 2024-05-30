@@ -1,0 +1,192 @@
+Cancer id,Cancer label,Population code (ISO/UN),Alpha‑3 code,Population,Sex,Incidence - ASR (World),Mortality - ASR (World),Grouped by
+20,Breast,012,DZA,Algeria,0,17.19,4.06,Africa
+20,Breast,818,EGY,Egypt,0,13.63,3.59,Africa
+20,Breast,504,MAR,Morocco,0,13.47,2.75,Africa
+20,Breast,226,GNQ,Equatorial Guinea,0,12.86,5.85,Africa
+20,Breast,231,ETH,Ethiopia,0,12.48,6.12,Africa
+20,Breast,262,DJI,Djibouti,0,12.45,5.93,Africa
+20,Breast,232,ERI,Eritrea,0,12.41,5.93,Africa
+20,Breast,729,SDN,Sudan,0,11.93,4.28,Africa
+20,Breast,384,CIV,"Côte d'Ivoire",0,11.86,5.84,Africa
+20,Breast,638,REU,"France, La Réunion",0,11.51,1.97,Africa
+20,Breast,120,CMR,Cameroon,0,11.24,5.35,Africa
+20,Breast,562,NER,Niger,0,11,6.33,Africa
+20,Breast,140,CAF,Central African Republic,0,10.31,5.94,Africa
+20,Breast,288,GHA,Ghana,0,10.3,4.47,Africa
+20,Breast,266,GAB,Gabon,0,10.21,2.86,Africa
+20,Breast,516,NAM,Namibia,0,10.16,3.47,Africa
+20,Breast,466,MLI,Mali,0,9.86,5.04,Africa
+20,Breast,706,SOM,Somalia,0,9.42,4.99,Africa
+20,Breast,480,MUS,Mauritius,0,9.34,2.05,Africa
+20,Breast,788,TUN,Tunisia,0,9.22,1.79,Africa
+20,Breast,430,LBR,Liberia,0,9.17,4.35,Africa
+20,Breast,478,MRT,Mauritania,0,8.82,4.13,Africa
+20,Breast,903,,Africa,0,8.73,3.35,Africa
+20,Breast,434,LBY,Libya,0,8.58,2,Africa
+20,Breast,566,NGA,Nigeria,0,8.19,3.4,Africa
+20,Breast,768,TGO,Togo,0,8.18,3.93,Africa
+20,Breast,686,SEN,Senegal,0,8.08,3.55,Africa
+20,Breast,024,AGO,Angola,0,7.5,2.63,Africa
+20,Breast,728,SSD,South Sudan,0,7.16,3.72,Africa
+20,Breast,678,STP,Sao Tome and Principe,0,6.73,1.38,Africa
+20,Breast,624,GNB,Guinea-Bissau,0,6.63,3.12,Africa
+20,Breast,450,MDG,Madagascar,0,6.18,2.48,Africa
+20,Breast,710,ZAF,South Africa,0,6.15,1.72,Africa
+20,Breast,180,COD,"Congo, Democratic People Republic of",0,5.92,2.88,Africa
+20,Breast,454,MWI,Malawi,0,5.91,2.81,Africa
+20,Breast,148,TCD,Chad,0,5.64,3.15,Africa
+20,Breast,404,KEN,Kenya,0,5.62,2.24,Africa
+20,Breast,132,CPV,Cape Verde,0,4.94,1.25,Africa
+20,Breast,800,UGA,Uganda,0,4.92,2.13,Africa
+20,Breast,716,ZWE,Zimbabwe,0,4.91,1.96,Africa
+20,Breast,270,GMB,The Republic of the Gambia,0,4.83,1.97,Africa
+20,Breast,508,MOZ,Mozambique,0,4.7,2.39,Africa
+20,Breast,204,BEN,Benin,0,4.69,2.15,Africa
+20,Breast,108,BDI,Burundi,0,4.67,2.2,Africa
+20,Breast,072,BWA,Botswana,0,4.52,1.42,Africa
+20,Breast,178,COG,"Congo, Republic of",0,4.35,1.8,Africa
+20,Breast,174,COM,Comoros,0,4.21,1.54,Africa
+20,Breast,646,RWA,Rwanda,0,4.13,1.79,Africa
+20,Breast,748,SWZ,Eswatini,0,3.85,1.42,Africa
+20,Breast,854,BFA,Burkina Faso,0,3.48,1.7,Africa
+20,Breast,834,TZA,"Tanzania, United Republic of",0,3.45,1.22,Africa
+20,Breast,894,ZMB,Zambia,0,3.42,1.08,Africa
+20,Breast,324,GIN,Guinea,0,3.39,1.44,Africa
+20,Breast,426,LSO,Lesotho,0,2.98,1.03,Africa
+20,Breast,694,SLE,Sierra Leone,0,2.23,1.09,Africa
+20,Breast,410,KOR,"Korea, Republic of",0,19.47,0.78,Asia
+20,Breast,392,JPN,Japan,0,14.66,0.65,Asia
+20,Breast,400,JOR,Jordan,0,12.96,3.06,Asia
+20,Breast,702,SGP,Singapore,0,12.88,0.79,Asia
+20,Breast,376,ISR,Israel,0,12.33,1.5,Asia
+20,Breast,792,TUR,Türkiye,0,11.34,1.62,Asia
+20,Breast,368,IRQ,Iraq,0,11.15,3.3,Asia
+20,Breast,608,PHL,Philippines,0,10.01,1.86,Asia
+20,Breast,364,IRN,"Iran, Islamic Republic of",0,9.89,1.34,Asia
+20,Breast,760,SYR,Syrian Arab Republic,0,9.62,2.6,Asia
+20,Breast,422,LBN,Lebanon,0,9.48,2.37,Asia
+20,Breast,458,MYS,Malaysia,0,9.41,2.46,Asia
+20,Breast,795,TKM,Turkmenistan,0,9.36,2.6,Asia
+20,Breast,512,OMN,Oman,0,9.13,2.83,Asia
+20,Breast,360,IDN,Indonesia,0,8.93,1.76,Asia
+20,Breast,887,YEM,Yemen,0,8.78,4.19,Asia
+20,Breast,462,MDV,Maldives,0,8.71,1.24,Asia
+20,Breast,275,PSE,Gaza Strip and West Bank,0,8.69,2.4,Asia
+20,Breast,268,GEO,Georgia,0,8.33,1.3,Asia
+20,Breast,031,AZE,Azerbaijan,0,8.27,1.64,Asia
+20,Breast,096,BRN,Brunei Darussalam,0,8.18,0.49,Asia
+20,Breast,418,LAO,"Lao People's Democratic Republic",0,8.05,1.62,Asia
+20,Breast,586,PAK,Pakistan,0,7.96,1.91,Asia
+20,Breast,408,PRK,"Korea, Democratic People Republic of",0,7.91,2.86,Asia
+20,Breast,764,THA,Thailand,0,7.87,1.34,Asia
+20,Breast,004,AFG,Afghanistan,0,7.64,2.6,Asia
+20,Breast,860,UZB,Uzbekistan,0,7.03,1.61,Asia
+20,Breast,104,MMR,Myanmar,0,6.91,1.71,Asia
+20,Breast,935,,Asia,0,6.52,1.25,Asia
+20,Breast,704,VNM,Viet Nam,0,6.38,1.27,Asia
+20,Breast,682,SAU,Saudi Arabia,0,6.38,1.17,Asia
+20,Breast,762,TJK,Tajikistan,0,6.37,1.25,Asia
+20,Breast,634,QAT,Qatar,0,6.36,0.97,Asia
+20,Breast,626,TLS,Timor-Leste,0,6.17,1.06,Asia
+20,Breast,156,CHN,China,0,5.86,0.57,Asia
+20,Breast,116,KHM,Cambodia,0,5.71,1.68,Asia
+20,Breast,048,BHR,Bahrain,0,5.6,0.72,Asia
+20,Breast,414,KWT,Kuwait,0,5.54,0.54,Asia
+20,Breast,417,KGZ,Kyrgyzstan,0,5.27,0.64,Asia
+20,Breast,051,ARM,Armenia,0,4.79,0.83,Asia
+20,Breast,050,BGD,Bangladesh,0,4.55,1.39,Asia
+20,Breast,356,IND,India,0,4.55,1.35,Asia
+20,Breast,398,KAZ,Kazakhstan,0,4.46,1,Asia
+20,Breast,784,ARE,United Arab Emirates,0,4.22,0.5,Asia
+20,Breast,524,NPL,Nepal,0,3.73,1.11,Asia
+20,Breast,144,LKA,Sri Lanka,0,3.44,0.83,Asia
+20,Breast,496,MNG,Mongolia,0,2.51,0.77,Asia
+20,Breast,064,BTN,Bhutan,0,0.82,0.28,Asia
+20,Breast,620,PRT,Portugal,0,22.29,1.49,Europe
+20,Breast,250,FRA,France (metropolitan),0,20.95,1.33,Europe
+20,Breast,470,MLT,Malta,0,19.17,1.13,Europe
+20,Breast,196,CYP,Cyprus,0,17.33,0.57,Europe
+20,Breast,380,ITA,Italy,0,17.07,0.98,Europe
+20,Breast,056,BEL,Belgium,0,17.05,0.87,Europe
+20,Breast,528,NLD,The Netherlands,0,16.54,0.97,Europe
+20,Breast,724,ESP,Spain,0,15.67,0.93,Europe
+20,Breast,442,LUX,Luxembourg,0,15.6,1.06,Europe
+20,Breast,300,GRC,Greece,0,15.15,0.97,Europe
+20,Breast,008,ALB,Albania,0,14.59,0.69,Europe
+20,Breast,807,MKD,North Macedonia,0,13.89,1.44,Europe
+20,Breast,191,HRV,Croatia,0,13.6,1.27,Europe
+20,Breast,705,SVN,Slovenia,0,13.3,0.8,Europe
+20,Breast,040,AUT,Austria,0,13.22,1.01,Europe
+20,Breast,642,ROU,Romania,0,13.07,1.31,Europe
+20,Breast,756,CHE,Switzerland,0,12.95,0.52,Europe
+20,Breast,203,CZE,Czechia,0,12.73,0.76,Europe
+20,Breast,908,,Europe,0,12.69,1.12,Europe
+20,Breast,826,GBR,United Kingdom,0,12.47,1.14,Europe
+20,Breast,348,HUN,Hungary,0,12.23,1.08,Europe
+20,Breast,616,POL,Poland,0,12.23,1.21,Europe
+20,Breast,578,NOR,Norway,0,12.2,0.64,Europe
+20,Breast,428,LVA,Latvia,0,12.03,0.97,Europe
+20,Breast,208,DNK,Denmark,0,12.02,0.69,Europe
+20,Breast,372,IRL,Ireland,0,11.71,1.3,Europe
+20,Breast,752,SWE,Sweden,0,11.23,0.76,Europe
+20,Breast,703,SVK,Slovakia,0,10.83,1.26,Europe
+20,Breast,276,DEU,Germany,0,10.81,1.27,Europe
+20,Breast,499,MNE,Montenegro,0,10.79,1.24,Europe
+20,Breast,440,LTU,Lithuania,0,10.76,1.25,Europe
+20,Breast,100,BGR,Bulgaria,0,10.3,1.35,Europe
+20,Breast,643,RUS,Russian Federation,0,10.1,1.19,Europe
+20,Breast,498,MDA,Moldova,0,9.85,1.86,Europe
+20,Breast,233,EST,Estonia,0,9.7,0.76,Europe
+20,Breast,352,ISL,Iceland,0,9.3,1.51,Europe
+20,Breast,246,FIN,Finland,0,9.19,0.61,Europe
+20,Breast,112,BLR,Belarus,0,9.17,1.09,Europe
+20,Breast,688,SRB,Serbia,0,8.29,1.02,Europe
+20,Breast,070,BIH,Bosnia Herzegovina,0,8.25,0.88,Europe
+20,Breast,804,UKR,Ukraine,0,6.9,0.9,Europe
+20,Breast,388,JAM,Jamaica,0,21.16,5.1,Latin America and the Caribbean
+20,Breast,052,BRB,Barbados,0,17.33,2.83,Latin America and the Caribbean
+20,Breast,662,LCA,Saint Lucia,0,16.97,2.35,Latin America and the Caribbean
+20,Breast,474,MTQ,"France, Martinique",0,16.5,2.8,Latin America and the Caribbean
+20,Breast,044,BHS,Bahamas,0,15.63,3.04,Latin America and the Caribbean
+20,Breast,032,ARG,Argentina,0,15.39,1.96,Latin America and the Caribbean
+20,Breast,312,GLP,"France, Guadeloupe",0,15.38,2.81,Latin America and the Caribbean
+20,Breast,214,DOM,Dominican Republic,0,15.34,3.6,Latin America and the Caribbean
+20,Breast,600,PRY,Paraguay,0,14.77,1.68,Latin America and the Caribbean
+20,Breast,740,SUR,Suriname,0,12.78,1.78,Latin America and the Caribbean
+20,Breast,858,URY,Uruguay,0,12.25,2.03,Latin America and the Caribbean
+20,Breast,170,COL,Colombia,0,11.62,1.36,Latin America and the Caribbean
+20,Breast,604,PER,Peru,0,11.41,1.32,Latin America and the Caribbean
+20,Breast,591,PAN,Panama,0,11.39,1.1,Latin America and the Caribbean
+20,Breast,076,BRA,Brazil,0,11.17,1.62,Latin America and the Caribbean
+20,Breast,068,BOL,Bolivia,0,10.85,1.59,Latin America and the Caribbean
+20,Breast,904,,Latin America and the Caribbean,0,10.32,1.47,Latin America and the Caribbean
+20,Breast,780,TTO,Trinidad and Tobago,0,10.01,1.73,Latin America and the Caribbean
+20,Breast,328,GUY,Guyana,0,9.15,2.23,Latin America and the Caribbean
+20,Breast,630,PRI,Puerto Rico,0,9.01,1.46,Latin America and the Caribbean
+20,Breast,484,MEX,Mexico,0,8.85,1.05,Latin America and the Caribbean
+20,Breast,862,VEN,Venezuela,0,8.48,1.5,Latin America and the Caribbean
+20,Breast,218,ECU,Ecuador,0,8.13,1.04,Latin America and the Caribbean
+20,Breast,254,GUF,French Guyana,0,7.79,0.86,Latin America and the Caribbean
+20,Breast,152,CHL,Chile,0,7.73,0.87,Latin America and the Caribbean
+20,Breast,222,SLV,El Salvador,0,7.69,1.07,Latin America and the Caribbean
+20,Breast,332,HTI,Haiti,0,6.63,2.12,Latin America and the Caribbean
+20,Breast,084,BLZ,Belize,0,6.22,1.12,Latin America and the Caribbean
+20,Breast,192,CUB,Cuba,0,6.07,0.83,Latin America and the Caribbean
+20,Breast,320,GTM,Guatemala,0,5.36,0.77,Latin America and the Caribbean
+20,Breast,188,CRI,Costa Rica,0,5.04,0.87,Latin America and the Caribbean
+20,Breast,340,HND,Honduras,0,4.51,2.12,Latin America and the Caribbean
+20,Breast,558,NIC,Nicaragua,0,3.97,1.1,Latin America and the Caribbean
+20,Breast,840,USA,United States of America,0,13.38,0.98,Northern America
+20,Breast,905,,Northern America,0,13.14,1,Northern America
+20,Breast,124,CAN,Canada,0,11.08,1.16,Northern America
+20,Breast,540,NCL,New Caledonia,0,15.32,1.71,Oceania
+20,Breast,242,FJI,Fiji,0,15.14,4.99,Oceania
+20,Breast,554,NZL,New Zealand,0,14.31,1.45,Oceania
+20,Breast,036,AUS,Australia,0,13.12,0.79,Oceania
+20,Breast,090,SLB,Solomon Islands,0,12.68,3.81,Oceania
+20,Breast,258,PYF,French Polynesia,0,12.52,2.42,Oceania
+20,Breast,909,,Oceania,0,12.52,1.77,Oceania
+20,Breast,882,WSM,Samoa,0,11.89,1.53,Oceania
+20,Breast,598,PNG,Papua New Guinea,0,9.82,4.35,Oceania
+20,Breast,548,VUT,Vanuatu,0,8.92,2.47,Oceania
+20,Breast,316,GUM,Guam,0,4.79,0,Oceania

@@ -1,0 +1,186 @@
+Cancer id,Most common site,Population code (ISO/UN),Population,Alpha‑3 code,Sex,Type,ASR (World) per 100 000
+20,Breast,620,Portugal,PRT,0,0,22.29
+20,Breast,388,Jamaica,JAM,0,0,21.16
+20,Breast,250,France (metropolitan),FRA,0,0,20.95
+20,Breast,410,"Korea, Republic of",KOR,0,0,19.47
+20,Breast,470,Malta,MLT,0,0,19.17
+20,Breast,052,Barbados,BRB,0,0,17.33
+20,Breast,196,Cyprus,CYP,0,0,17.33
+20,Breast,012,Algeria,DZA,0,0,17.19
+20,Breast,380,Italy,ITA,0,0,17.07
+20,Breast,056,Belgium,BEL,0,0,17.05
+20,Breast,662,Saint Lucia,LCA,0,0,16.97
+20,Breast,528,The Netherlands,NLD,0,0,16.54
+20,Breast,474,"France, Martinique",MTQ,0,0,16.5
+20,Breast,724,Spain,ESP,0,0,15.67
+20,Breast,044,Bahamas,BHS,0,0,15.63
+20,Breast,442,Luxembourg,LUX,0,0,15.6
+20,Breast,032,Argentina,ARG,0,0,15.39
+20,Breast,312,"France, Guadeloupe",GLP,0,0,15.38
+20,Breast,214,Dominican Republic,DOM,0,0,15.34
+20,Breast,540,New Caledonia,NCL,0,0,15.32
+20,Breast,300,Greece,GRC,0,0,15.15
+20,Breast,242,Fiji,FJI,0,0,15.14
+20,Breast,600,Paraguay,PRY,0,0,14.77
+20,Breast,392,Japan,JPN,0,0,14.66
+20,Breast,008,Albania,ALB,0,0,14.59
+20,Breast,554,New Zealand,NZL,0,0,14.31
+20,Breast,807,North Macedonia,MKD,0,0,13.89
+20,Breast,818,Egypt,EGY,0,0,13.63
+20,Breast,191,Croatia,HRV,0,0,13.6
+20,Breast,504,Morocco,MAR,0,0,13.47
+20,Breast,840,United States of America,USA,0,0,13.38
+20,Breast,705,Slovenia,SVN,0,0,13.3
+20,Breast,040,Austria,AUT,0,0,13.22
+20,Breast,036,Australia,AUS,0,0,13.12
+20,Breast,642,Romania,ROU,0,0,13.07
+20,Breast,400,Jordan,JOR,0,0,12.96
+20,Breast,756,Switzerland,CHE,0,0,12.95
+20,Breast,702,Singapore,SGP,0,0,12.88
+20,Breast,226,Equatorial Guinea,GNQ,0,0,12.86
+20,Breast,740,Suriname,SUR,0,0,12.78
+20,Breast,203,Czechia,CZE,0,0,12.73
+20,Breast,090,Solomon Islands,SLB,0,0,12.68
+20,Breast,258,French Polynesia,PYF,0,0,12.52
+20,Breast,231,Ethiopia,ETH,0,0,12.48
+20,Breast,826,United Kingdom,GBR,0,0,12.47
+20,Breast,262,Djibouti,DJI,0,0,12.45
+20,Breast,232,Eritrea,ERI,0,0,12.41
+20,Breast,376,Israel,ISR,0,0,12.33
+20,Breast,858,Uruguay,URY,0,0,12.25
+20,Breast,348,Hungary,HUN,0,0,12.23
+20,Breast,616,Poland,POL,0,0,12.23
+20,Breast,578,Norway,NOR,0,0,12.2
+20,Breast,428,Latvia,LVA,0,0,12.03
+20,Breast,208,Denmark,DNK,0,0,12.02
+20,Breast,729,Sudan,SDN,0,0,11.93
+20,Breast,882,Samoa,WSM,0,0,11.89
+20,Breast,384,"Côte d'Ivoire",CIV,0,0,11.86
+20,Breast,372,Ireland,IRL,0,0,11.71
+20,Breast,170,Colombia,COL,0,0,11.62
+20,Breast,638,"France, La Réunion",REU,0,0,11.51
+20,Breast,604,Peru,PER,0,0,11.41
+20,Breast,591,Panama,PAN,0,0,11.39
+20,Breast,792,Türkiye,TUR,0,0,11.34
+20,Breast,120,Cameroon,CMR,0,0,11.24
+20,Breast,752,Sweden,SWE,0,0,11.23
+20,Breast,076,Brazil,BRA,0,0,11.17
+20,Breast,368,Iraq,IRQ,0,0,11.15
+20,Breast,124,Canada,CAN,0,0,11.08
+20,Breast,562,Niger,NER,0,0,11
+20,Breast,068,Bolivia,BOL,0,0,10.85
+20,Breast,703,Slovakia,SVK,0,0,10.83
+20,Breast,276,Germany,DEU,0,0,10.81
+20,Breast,499,Montenegro,MNE,0,0,10.79
+20,Breast,440,Lithuania,LTU,0,0,10.76
+20,Breast,140,Central African Republic,CAF,0,0,10.31
+20,Breast,100,Bulgaria,BGR,0,0,10.3
+20,Breast,288,Ghana,GHA,0,0,10.3
+20,Breast,266,Gabon,GAB,0,0,10.21
+20,Breast,516,Namibia,NAM,0,0,10.16
+20,Breast,643,Russian Federation,RUS,0,0,10.1
+20,Breast,608,Philippines,PHL,0,0,10.01
+20,Breast,780,Trinidad and Tobago,TTO,0,0,10.01
+20,Breast,364,"Iran, Islamic Republic of",IRN,0,0,9.89
+20,Breast,466,Mali,MLI,0,0,9.86
+20,Breast,498,Moldova,MDA,0,0,9.85
+20,Breast,598,Papua New Guinea,PNG,0,0,9.82
+20,Breast,233,Estonia,EST,0,0,9.7
+20,Breast,760,Syrian Arab Republic,SYR,0,0,9.62
+20,Breast,422,Lebanon,LBN,0,0,9.48
+20,Breast,706,Somalia,SOM,0,0,9.42
+20,Breast,458,Malaysia,MYS,0,0,9.41
+20,Breast,795,Turkmenistan,TKM,0,0,9.36
+20,Breast,480,Mauritius,MUS,0,0,9.34
+20,Breast,352,Iceland,ISL,0,0,9.3
+20,Breast,788,Tunisia,TUN,0,0,9.22
+20,Breast,246,Finland,FIN,0,0,9.19
+20,Breast,112,Belarus,BLR,0,0,9.17
+20,Breast,430,Liberia,LBR,0,0,9.17
+20,Breast,328,Guyana,GUY,0,0,9.15
+20,Breast,512,Oman,OMN,0,0,9.13
+20,Breast,630,Puerto Rico,PRI,0,0,9.01
+20,Breast,360,Indonesia,IDN,0,0,8.93
+20,Breast,548,Vanuatu,VUT,0,0,8.92
+20,Breast,484,Mexico,MEX,0,0,8.85
+20,Breast,478,Mauritania,MRT,0,0,8.82
+20,Breast,887,Yemen,YEM,0,0,8.78
+20,Breast,462,Maldives,MDV,0,0,8.71
+20,Breast,275,Gaza Strip and West Bank,PSE,0,0,8.69
+20,Breast,434,Libya,LBY,0,0,8.58
+20,Breast,862,Venezuela,VEN,0,0,8.48
+20,Breast,268,Georgia,GEO,0,0,8.33
+20,Breast,688,Serbia,SRB,0,0,8.29
+20,Breast,031,Azerbaijan,AZE,0,0,8.27
+20,Breast,070,Bosnia Herzegovina,BIH,0,0,8.25
+20,Breast,566,Nigeria,NGA,0,0,8.19
+20,Breast,096,Brunei Darussalam,BRN,0,0,8.18
+20,Breast,768,Togo,TGO,0,0,8.18
+20,Breast,218,Ecuador,ECU,0,0,8.13
+20,Breast,686,Senegal,SEN,0,0,8.08
+20,Breast,418,"Lao People's Democratic Republic",LAO,0,0,8.05
+20,Breast,586,Pakistan,PAK,0,0,7.96
+20,Breast,408,"Korea, Democratic People Republic of",PRK,0,0,7.91
+20,Breast,764,Thailand,THA,0,0,7.87
+20,Breast,254,French Guyana,GUF,0,0,7.79
+20,Breast,152,Chile,CHL,0,0,7.73
+20,Breast,222,El Salvador,SLV,0,0,7.69
+20,Breast,004,Afghanistan,AFG,0,0,7.64
+20,Breast,024,Angola,AGO,0,0,7.5
+20,Breast,728,South Sudan,SSD,0,0,7.16
+20,Breast,860,Uzbekistan,UZB,0,0,7.03
+20,Breast,104,Myanmar,MMR,0,0,6.91
+20,Breast,804,Ukraine,UKR,0,0,6.9
+20,Breast,678,Sao Tome and Principe,STP,0,0,6.73
+20,Breast,332,Haiti,HTI,0,0,6.63
+20,Breast,624,Guinea-Bissau,GNB,0,0,6.63
+20,Breast,682,Saudi Arabia,SAU,0,0,6.38
+20,Breast,704,Viet Nam,VNM,0,0,6.38
+20,Breast,762,Tajikistan,TJK,0,0,6.37
+20,Breast,634,Qatar,QAT,0,0,6.36
+20,Breast,084,Belize,BLZ,0,0,6.22
+20,Breast,450,Madagascar,MDG,0,0,6.18
+20,Breast,626,Timor-Leste,TLS,0,0,6.17
+20,Breast,710,South Africa,ZAF,0,0,6.15
+20,Breast,192,Cuba,CUB,0,0,6.07
+20,Breast,180,"Congo, Democratic People Republic of",COD,0,0,5.92
+20,Breast,454,Malawi,MWI,0,0,5.91
+20,Breast,156,China,CHN,0,0,5.86
+20,Breast,116,Cambodia,KHM,0,0,5.71
+20,Breast,148,Chad,TCD,0,0,5.64
+20,Breast,404,Kenya,KEN,0,0,5.62
+20,Breast,048,Bahrain,BHR,0,0,5.6
+20,Breast,414,Kuwait,KWT,0,0,5.54
+20,Breast,320,Guatemala,GTM,0,0,5.36
+20,Breast,417,Kyrgyzstan,KGZ,0,0,5.27
+20,Breast,188,Costa Rica,CRI,0,0,5.04
+20,Breast,132,Cape Verde,CPV,0,0,4.94
+20,Breast,800,Uganda,UGA,0,0,4.92
+20,Breast,716,Zimbabwe,ZWE,0,0,4.91
+20,Breast,270,The Republic of the Gambia,GMB,0,0,4.83
+20,Breast,051,Armenia,ARM,0,0,4.79
+20,Breast,316,Guam,GUM,0,0,4.79
+20,Breast,508,Mozambique,MOZ,0,0,4.7
+20,Breast,204,Benin,BEN,0,0,4.69
+20,Breast,108,Burundi,BDI,0,0,4.67
+20,Breast,050,Bangladesh,BGD,0,0,4.55
+20,Breast,356,India,IND,0,0,4.55
+20,Breast,072,Botswana,BWA,0,0,4.52
+20,Breast,340,Honduras,HND,0,0,4.51
+20,Breast,398,Kazakhstan,KAZ,0,0,4.46
+20,Breast,178,"Congo, Republic of",COG,0,0,4.35
+20,Breast,784,United Arab Emirates,ARE,0,0,4.22
+20,Breast,174,Comoros,COM,0,0,4.21
+20,Breast,646,Rwanda,RWA,0,0,4.13
+20,Breast,558,Nicaragua,NIC,0,0,3.97
+20,Breast,748,Eswatini,SWZ,0,0,3.85
+20,Breast,524,Nepal,NPL,0,0,3.73
+20,Breast,854,Burkina Faso,BFA,0,0,3.48
+20,Breast,834,"Tanzania, United Republic of",TZA,0,0,3.45
+20,Breast,144,Sri Lanka,LKA,0,0,3.44
+20,Breast,894,Zambia,ZMB,0,0,3.42
+20,Breast,324,Guinea,GIN,0,0,3.39
+20,Breast,426,Lesotho,LSO,0,0,2.98
+20,Breast,496,Mongolia,MNG,0,0,2.51
+20,Breast,694,Sierra Leone,SLE,0,0,2.23
+20,Breast,064,Bhutan,BTN,0,0,0.82

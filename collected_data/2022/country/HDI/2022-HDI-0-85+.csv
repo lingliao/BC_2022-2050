@@ -1,0 +1,190 @@
+Cancer id,Cancer label,Population code (ISO/UN),Alpha‑3 code,Population,Sex,Incidence - ASR (World),Mortality - ASR (World),Grouped by
+20,Breast,250,FRA,France (metropolitan),0,105.42,15.78,Very high HDI
+20,Breast,196,CYP,Cyprus,0,104.75,18.61,Very high HDI
+20,Breast,056,BEL,Belgium,0,104.39,14.19,Very high HDI
+20,Breast,528,NLD,The Netherlands,0,101.6,14.53,Very high HDI
+20,Breast,036,AUS,Australia,0,101.47,12.28,Very high HDI
+20,Breast,442,LUX,Luxembourg,0,99.7,15.09,Very high HDI
+20,Breast,840,USA,United States of America,0,95.91,12.19,Very high HDI
+20,Breast,578,NOR,Norway,0,95.56,11,Very high HDI
+20,Breast,208,DNK,Denmark,0,95.42,14.08,Very high HDI
+20,Breast,554,NZL,New Zealand,0,94.36,15.52,Very high HDI
+20,Breast,826,GBR,United Kingdom,0,94.03,13.98,Very high HDI
+20,Breast,246,FIN,Finland,0,92.33,11.89,Very high HDI
+20,Breast,372,IRL,Ireland,0,91.45,17.18,Very high HDI
+20,Breast,620,PRT,Portugal,0,88.75,14.53,Very high HDI
+20,Breast,124,CAN,Canada,0,88.59,13.39,Very high HDI
+20,Breast,380,ITA,Italy,0,87.01,14.83,Very high HDI
+20,Breast,470,MLT,Malta,0,86.3,13.8,Very high HDI
+20,Breast,300,GRC,Greece,0,82.36,14.74,Very high HDI
+20,Breast,705,SVN,Slovenia,0,82.27,15.03,Very high HDI
+20,Breast,752,SWE,Sweden,0,81.41,11.86,Very high HDI
+20,Breast,724,ESP,Spain,0,80.96,10.56,Very high HDI
+20,Breast,376,ISR,Israel,0,78.74,16.2,Very high HDI
+20,Breast,756,CHE,Switzerland,0,77.42,12.36,Very high HDI
+20,Breast,276,DEU,Germany,0,77.02,15.81,Very high HDI
+20,Breast,499,MNE,Montenegro,0,76.54,23.26,Very high HDI
+20,Breast,348,HUN,Hungary,0,76.38,16.86,Very high HDI
+20,Breast,981,,Very HDI country,0,75.63,13.21,Very high HDI
+20,Breast,858,URY,Uruguay,0,75.05,21.57,Very high HDI
+20,Breast,191,HRV,Croatia,0,74.64,11.65,Very high HDI
+20,Breast,392,JPN,Japan,0,74.39,9.68,Very high HDI
+20,Breast,702,SGP,Singapore,0,72.61,17.82,Very high HDI
+20,Breast,203,CZE,Czechia,0,72.51,11.69,Very high HDI
+20,Breast,032,ARG,Argentina,0,71.32,17.58,Very high HDI
+20,Breast,352,ISL,Iceland,0,71.06,17.13,Very high HDI
+20,Breast,040,AUT,Austria,0,69.54,14.26,Very high HDI
+20,Breast,642,ROU,Romania,0,69.22,16.47,Very high HDI
+20,Breast,703,SVK,Slovakia,0,67.3,18.1,Very high HDI
+20,Breast,616,POL,Poland,0,65.96,17.39,Very high HDI
+20,Breast,428,LVA,Latvia,0,65.95,16.29,Very high HDI
+20,Breast,044,BHS,Bahamas,0,64.64,31.69,Very high HDI
+20,Breast,233,EST,Estonia,0,63.06,13.23,Very high HDI
+20,Breast,440,LTU,Lithuania,0,62.74,14.47,Very high HDI
+20,Breast,410,KOR,"Korea, Republic of",0,61.48,5.8,Very high HDI
+20,Breast,688,SRB,Serbia,0,60.5,18.52,Very high HDI
+20,Breast,048,BHR,Bahrain,0,58.49,19.67,Very high HDI
+20,Breast,643,RUS,Russian Federation,0,57.67,13.58,Very high HDI
+20,Breast,784,ARE,United Arab Emirates,0,57.05,15.92,Very high HDI
+20,Breast,112,BLR,Belarus,0,56.57,13.3,Very high HDI
+20,Breast,780,TTO,Trinidad and Tobago,0,54,22.11,Very high HDI
+20,Breast,480,MUS,Mauritius,0,52.68,18.97,Very high HDI
+20,Breast,096,BRN,Brunei Darussalam,0,50.16,14.28,Very high HDI
+20,Breast,414,KWT,Kuwait,0,49.83,16.99,Very high HDI
+20,Breast,268,GEO,Georgia,0,49.04,20.64,Very high HDI
+20,Breast,792,TUR,Türkiye,0,46.77,12.52,Very high HDI
+20,Breast,458,MYS,Malaysia,0,46.09,19.3,Very high HDI
+20,Breast,591,PAN,Panama,0,41.39,10.46,Very high HDI
+20,Breast,634,QAT,Qatar,0,39.03,11.39,Very high HDI
+20,Breast,152,CHL,Chile,0,38.23,10.28,Very high HDI
+20,Breast,188,CRI,Costa Rica,0,37.53,10.63,Very high HDI
+20,Breast,764,THA,Thailand,0,37.44,11.81,Very high HDI
+20,Breast,398,KAZ,Kazakhstan,0,36.94,12.31,Very high HDI
+20,Breast,512,OMN,Oman,0,33.96,13.1,Very high HDI
+20,Breast,682,SAU,Saudi Arabia,0,25.28,7.64,Very high HDI
+20,Breast,882,WSM,Samoa,0,88.75,28.09,High HDI
+20,Breast,388,JAM,Jamaica,0,71.12,35.21,High HDI
+20,Breast,807,MKD,North Macedonia,0,65.28,19.49,High HDI
+20,Breast,076,BRA,Brazil,0,63.12,13.88,High HDI
+20,Breast,012,DZA,Algeria,0,61.87,20.8,High HDI
+20,Breast,242,FJI,Fiji,0,60.26,38.85,High HDI
+20,Breast,400,JOR,Jordan,0,59.99,19.32,High HDI
+20,Breast,600,PRY,Paraguay,0,58.37,16.88,High HDI
+20,Breast,422,LBN,Lebanon,0,57.89,20.39,High HDI
+20,Breast,052,BRB,Barbados,0,57.74,29.8,High HDI
+20,Breast,818,EGY,Egypt,0,55.4,19.89,High HDI
+20,Breast,214,DOM,Dominican Republic,0,53.39,23.03,High HDI
+20,Breast,100,BGR,Bulgaria,0,52.82,15.45,High HDI
+20,Breast,328,GUY,Guyana,0,52.6,15.18,High HDI
+20,Breast,070,BIH,Bosnia Herzegovina,0,51.88,14.98,High HDI
+20,Breast,662,LCA,Saint Lucia,0,51.68,16.39,High HDI
+20,Breast,008,ALB,Albania,0,51.14,14.49,High HDI
+20,Breast,170,COL,Colombia,0,50.7,13.29,High HDI
+20,Breast,710,ZAF,South Africa,0,47.8,16.96,High HDI
+20,Breast,192,CUB,Cuba,0,47.24,13.87,High HDI
+20,Breast,498,MDA,Moldova,0,46.57,17.45,High HDI
+20,Breast,740,SUR,Suriname,0,46.38,14.43,High HDI
+20,Breast,275,PSE,Gaza Strip and West Bank,0,46.33,19.71,High HDI
+20,Breast,804,UKR,Ukraine,0,43.08,13.17,High HDI
+20,Breast,360,IDN,Indonesia,0,41.78,14.35,High HDI
+20,Breast,484,MEX,Mexico,0,39.94,10.31,High HDI
+20,Breast,462,MDV,Maldives,0,39.84,13.2,High HDI
+20,Breast,051,ARM,Armenia,0,39.61,16.08,High HDI
+20,Breast,218,ECU,Ecuador,0,39.46,11.16,High HDI
+20,Breast,604,PER,Peru,0,39.3,9.41,High HDI
+20,Breast,982,,High HDI country,0,38.79,9.5,High HDI
+20,Breast,704,VNM,Viet Nam,0,37.96,14.67,High HDI
+20,Breast,266,GAB,Gabon,0,36.41,13.24,High HDI
+20,Breast,788,TUN,Tunisia,0,36.16,10.85,High HDI
+20,Breast,156,CHN,China,0,33.04,6.1,High HDI
+20,Breast,031,AZE,Azerbaijan,0,32.9,11.8,High HDI
+20,Breast,795,TKM,Turkmenistan,0,31.13,15.57,High HDI
+20,Breast,434,LBY,Libya,0,30.98,13.29,High HDI
+20,Breast,364,IRN,"Iran, Islamic Republic of",0,30.45,11.02,High HDI
+20,Breast,860,UZB,Uzbekistan,0,27.79,12.98,High HDI
+20,Breast,144,LKA,Sri Lanka,0,27.68,11.24,High HDI
+20,Breast,496,MNG,Mongolia,0,12.63,3.19,High HDI
+20,Breast,608,PHL,Philippines,0,60.34,21.47,Medium HDI
+20,Breast,504,MAR,Morocco,0,58.37,18.07,Medium HDI
+20,Breast,368,IRQ,Iraq,0,56.91,23.51,Medium HDI
+20,Breast,516,NAM,Namibia,0,53.93,22.54,Medium HDI
+20,Breast,090,SLB,Solomon Islands,0,49.18,20.44,Medium HDI
+20,Breast,120,CMR,Cameroon,0,48.64,27.44,Medium HDI
+20,Breast,862,VEN,Venezuela,0,47.1,16.16,Medium HDI
+20,Breast,084,BLZ,Belize,0,46.75,11.71,Medium HDI
+20,Breast,760,SYR,Syrian Arab Republic,0,46.21,20.94,Medium HDI
+20,Breast,598,PNG,Papua New Guinea,0,46.03,26.66,Medium HDI
+20,Breast,384,CIV,"Côte d'Ivoire",0,45.44,25.37,Medium HDI
+20,Breast,226,GNQ,Equatorial Guinea,0,40.99,21.39,Medium HDI
+20,Breast,404,KEN,Kenya,0,40.77,19.59,Medium HDI
+20,Breast,288,GHA,Ghana,0,40.19,19.34,Medium HDI
+20,Breast,222,SLV,El Salvador,0,39.65,7.79,Medium HDI
+20,Breast,716,ZWE,Zimbabwe,0,35.84,18.57,Medium HDI
+20,Breast,558,NIC,Nicaragua,0,35.32,10.62,Medium HDI
+20,Breast,478,MRT,Mauritania,0,34.54,18.54,Medium HDI
+20,Breast,418,LAO,"Lao People's Democratic Republic",0,31.63,12.55,Medium HDI
+20,Breast,983,,Medium HDI country,0,29.71,13.96,Medium HDI
+20,Breast,548,VUT,Vanuatu,0,29.6,8.86,Medium HDI
+20,Breast,024,AGO,Angola,0,29.43,14.3,Medium HDI
+20,Breast,320,GTM,Guatemala,0,28.35,6.83,Medium HDI
+20,Breast,340,HND,Honduras,0,27.28,11.21,Medium HDI
+20,Breast,178,COG,"Congo, Republic of",0,26.85,12.5,Medium HDI
+20,Breast,068,BOL,Bolivia,0,26.78,7.53,Medium HDI
+20,Breast,356,IND,India,0,26.6,13.7,Medium HDI
+20,Breast,626,TLS,Timor-Leste,0,26.38,10.24,Medium HDI
+20,Breast,748,SWZ,Eswatini,0,26.17,11.26,Medium HDI
+20,Breast,417,KGZ,Kyrgyzstan,0,25.31,8.19,Medium HDI
+20,Breast,116,KHM,Cambodia,0,25.13,11.17,Medium HDI
+20,Breast,104,MMR,Myanmar,0,23.41,10.09,Medium HDI
+20,Breast,132,CPV,Cape Verde,0,23.4,7.81,Medium HDI
+20,Breast,072,BWA,Botswana,0,23.03,8.27,Medium HDI
+20,Breast,894,ZMB,Zambia,0,22.32,10.78,Medium HDI
+20,Breast,174,COM,Comoros,0,21.5,11.8,Medium HDI
+20,Breast,678,STP,Sao Tome and Principe,0,19.91,9.61,Medium HDI
+20,Breast,762,TJK,Tajikistan,0,19.47,7.38,Medium HDI
+20,Breast,050,BGD,Bangladesh,0,15.18,7.55,Medium HDI
+20,Breast,524,NPL,Nepal,0,14.35,7.6,Medium HDI
+20,Breast,064,BTN,Bhutan,0,4.56,2.33,Medium HDI
+20,Breast,566,NGA,Nigeria,0,51.5,26.83,Low HDI
+20,Breast,231,ETH,Ethiopia,0,40.81,23.95,Low HDI
+20,Breast,729,SDN,Sudan,0,39.94,20.72,Low HDI
+20,Breast,262,DJI,Djibouti,0,38.06,22.11,Low HDI
+20,Breast,232,ERI,Eritrea,0,37.78,22.41,Low HDI
+20,Breast,466,MLI,Mali,0,37.73,23.13,Low HDI
+20,Breast,140,CAF,Central African Republic,0,37.72,25.31,Low HDI
+20,Breast,586,PAK,Pakistan,0,34.23,18.6,Low HDI
+20,Breast,984,,Low HDI country,0,34.1,18.99,Low HDI
+20,Breast,430,LBR,Liberia,0,33.57,19.48,Low HDI
+20,Breast,204,BEN,Benin,0,33.26,18.87,Low HDI
+20,Breast,768,TGO,Togo,0,32.93,18.07,Low HDI
+20,Breast,450,MDG,Madagascar,0,30.32,16.37,Low HDI
+20,Breast,686,SEN,Senegal,0,29.89,16.42,Low HDI
+20,Breast,562,NER,Niger,0,29.46,18.97,Low HDI
+20,Breast,004,AFG,Afghanistan,0,29.44,17.92,Low HDI
+20,Breast,728,SSD,South Sudan,0,27.99,17.61,Low HDI
+20,Breast,624,GNB,Guinea-Bissau,0,27.17,16.69,Low HDI
+20,Breast,180,COD,"Congo, Democratic People Republic of",0,26.45,15.64,Low HDI
+20,Breast,887,YEM,Yemen,0,25.35,14,Low HDI
+20,Breast,108,BDI,Burundi,0,25.32,15.7,Low HDI
+20,Breast,454,MWI,Malawi,0,25.19,14.81,Low HDI
+20,Breast,332,HTI,Haiti,0,25.16,14.31,Low HDI
+20,Breast,834,TZA,"Tanzania, United Republic of",0,25.12,12.91,Low HDI
+20,Breast,800,UGA,Uganda,0,23.34,12.63,Low HDI
+20,Breast,854,BFA,Burkina Faso,0,21.38,13.17,Low HDI
+20,Breast,508,MOZ,Mozambique,0,19.69,11.96,Low HDI
+20,Breast,426,LSO,Lesotho,0,18.92,9.75,Low HDI
+20,Breast,646,RWA,Rwanda,0,16.2,8.35,Low HDI
+20,Breast,324,GIN,Guinea,0,15.95,8.91,Low HDI
+20,Breast,148,TCD,Chad,0,14.24,8.79,Low HDI
+20,Breast,270,GMB,The Republic of the Gambia,0,12.12,6.59,Low HDI
+20,Breast,694,SLE,Sierra Leone,0,7.02,4.22,Low HDI
+20,Breast,540,NCL,New Caledonia,0,90.18,16.81,Not applicable
+20,Breast,474,MTQ,"France, Martinique",0,77.16,16.29,Not applicable
+20,Breast,258,PYF,French Polynesia,0,71.91,23.21,Not applicable
+20,Breast,312,GLP,"France, Guadeloupe",0,66.41,16.68,Not applicable
+20,Breast,630,PRI,Puerto Rico,0,62.32,14.34,Not applicable
+20,Breast,638,REU,"France, La Réunion",0,55.94,12.09,Not applicable
+20,Breast,254,GUF,French Guyana,0,55.71,15.92,Not applicable
+20,Breast,316,GUM,Guam,0,44.15,16.98,Not applicable
+20,Breast,706,SOM,Somalia,0,38.62,25.66,Not applicable
+20,Breast,408,PRK,"Korea, Democratic People Republic of",0,32.25,9.84,Not applicable
