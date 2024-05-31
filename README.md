@@ -21,7 +21,7 @@ Flow chart of this study:
   <img width="970" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/4faa0cc1-b33a-4dd3-9708-0d1da45bc900">
 </div>
 
-* Country or territory
+* *Country or territory
 
 ## Results
 
