@@ -18,8 +18,7 @@ Conversely, areas with very high and high HDI levels are expected to experience 
 Flow chart of this study:
 
 <div style="text-align: center;">
-  <img width="970" alt="image" src="<img width="468" alt="image" src="[flow_chart.pdf](https://github.com/user-attachments/files/15506867/flow_chart.pdf)
-">
+  <img width="970" alt="image" src="https://github.com/user-attachments/files/15506873/flow_chart.pdf">
 </div>
 
 ## Results
