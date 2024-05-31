@@ -23,18 +23,7 @@ Flow chart of this study:
 
 ## Results
 
-Current(2022) burden of breast cancer:
-
-<div style="text-align: center;">
-  <img width="900" alt="image" src="<img width="469" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/027cf83e-3803-4ff5-adc8-70cc167116bb">
-</div>
-
-Future trends of breast cancer new cases and deaths:
-
-<div style="text-align: center;">
-  <img width="970" alt="image" src="<img width="468" alt="image" src="<img width="460" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/91448e94-26a2-4c24-8df6-872b44b92853">
-</div>
-
+Current(2022) burden and future trends are available from the publication.(will update when applicable)
 
 ## Dataset Availability
 The data utilized in this study is downloaded from [Cancer Today](https://gco.iarc.who.int/today/en/dataviz/maps-heatmap?mode=population&types=1) and [Cancer Tomorrow](https://gco.iarc.who.int/tomorrow/en/dataviz/bubbles?cancers=20&populations=903_904_905_908_909_935&years=2022&sexes=0).
