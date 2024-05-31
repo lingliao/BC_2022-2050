@@ -26,13 +26,13 @@ Flow chart of this study:
 Current(2022) burden of breast cancer:
 
 <div style="text-align: center;">
-  <img width="900" alt="image" src="<img width="469" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/e9716055-275b-4f39-b017-dec55829a7d9">
+  <img width="900" alt="image" src="<img width="469" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/027cf83e-3803-4ff5-adc8-70cc167116bb">
 </div>
 
 Future trends of breast cancer new cases and deaths:
 
 <div style="text-align: center;">
-  <img width="970" alt="image" src="<img width="468" alt="image" src="<img width="460" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/30cf5b57-1aba-4be2-a5d4-9ff0917b89ed">
+  <img width="970" alt="image" src="<img width="468" alt="image" src="<img width="460" alt="image" src="https://github.com/lingliao/BC_2022-2050/assets/91222367/91448e94-26a2-4c24-8df6-872b44b92853">
 </div>
 
 
