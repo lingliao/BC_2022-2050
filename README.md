@@ -1,4 +1,4 @@
-# Breast Cancer: Global Statistics from 2022 to 2050
+# Inequality in Breast Cancer: Global Statistics from 2022 to 2050
 
 Ling Liao
 
@@ -10,10 +10,9 @@ Founder, Biomedical Deep Learning LLC
 
 ## Overview
 
-This study quantified the global dynamics of breast cancer ASR (world) of mortality versus incidence across continents and HDI levels. In 2022, Africa exhibited the highest positive slope values for both age brackets ([0-39] and [40-85+]), while Asia, Latin America and the Caribbean, and Oceania showed intermediate values. Europe had a slope value closest to zero, and Northern America displayed a negative slope. These findings aligned well with the broader trend where lower HDI levels correlated with higher slope values. Projections for 2050 indicated significant increases in the burden of breast cancer, with persistent yet varied disparities and differences among age groups, continents, and HDI levels.
+This study quantified the global inequalities of breast cancer ASR (world) of mortality versus incidence across age groups, continents and HDI levels. In 2022, Africa exhibited the highest positive slope values for both age brackets ([0-39] and [40-85+]), while Asia, Latin America and the Caribbean, and Oceania showed intermediate values. Europe had a slope value closest to zero, and Northern America displayed a negative slope. These findings aligned well with the broader trend where lower HDI levels correlated with higher slope values. Projections for 2050 indicated significant increases in the burden of breast cancer, with persistent yet varied disparities and differences among age groups, continents, and HDI levels.
 Notably, in 2022, Africa had a uniquely higher slope value of mortality versus incidence rate for the age group [0-39] compared to [40-85+]. By 2050, the number of deaths in the [0-39] age group in Africa was projected to exceed that of Asia, making it the highest among all continents. 
 Conversely, areas with very high and high HDI levels are expected to experience decreases in both new cases and deaths for the same age group from 2022 to 2050.
-
 
 Flow chart of this study:
 
