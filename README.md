@@ -4,8 +4,6 @@ Ling Liao
 
 MS, Precision Medicine and Healthcare, Tsinghua University
 
-PHD candidate, Computational and Systems Biology, Washington University in St. Louis
-
 Founder, Biomedical Deep Learning LLC
 
 ## Overview
