@@ -6,6 +6,8 @@ MS, Precision Medicine and Healthcare, Tsinghua University
 
 Founder, Biomedical Deep Learning LLC
 
+Full article is available [here](https://www.sciencedirect.com/science/article/pii/S0960977624001826#:~:text=In%20Asia%2C%20for%20instance%2C%20breast,%2C%20marking%20a%2046%25%20rise.)
+
 ## Overview
 
 This study quantified the global inequalities of breast cancer ASR (world) of mortality versus incidence across age groups, continents and HDI levels. In 2022, Africa exhibited the highest positive slope values for both age brackets ([0-39] and [40-85+]), while Asia, Latin America and the Caribbean, and Oceania showed intermediate values. Europe had a slope value closest to zero, and Northern America displayed a negative slope. These findings aligned well with the broader trend where lower HDI levels correlated with higher slope values. Projections for 2050 indicated significant increases in the burden of breast cancer, with persistent yet varied disparities and differences among age groups, continents, and HDI levels.
